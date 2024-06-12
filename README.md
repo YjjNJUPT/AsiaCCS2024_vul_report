@@ -1,4 +1,4 @@
-# AsiaCCS2024_vul_report
+# Tracking of Default Settings Vulnerabilities of Home Router Features
 
 This repo tracks the vulnerabilities discovered in our work<sup>[1]</sup>.
 
