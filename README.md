@@ -20,7 +20,7 @@ CVE-2023-50487 | No IPv6 NAT and Firewall | TP-Link TL-WR841N(US) v13 <= 180119 
 CVE-2023-43854 | Missing SSL Certificate Validation | Tenda AX12 Pro <= V16.03.20.17_cn and Tenda AX2 Pro <= V16.03.29.45_cn |
 CVE-2023-50024 | Missing SSL Certificate Validation | Netcore N3 <= 3.0.5.59643 and Netcore N30 <= 1.0.1.230406.171444 |
 CVE-2023-50025 | Missing SSL Certificate Validation | Ruijie X32 Pro <= 1.203.1614 |
-CVE-2024-36755 | Missing SSL Certificate Validation | D-Link DIR-1950 <= 1.11B03 |
+CVE-2024-36755 | Missing SSL Certificate Validation | D-Link DIR-1950 <= 1.13B01 | https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10401
 CVE-2024-36758 | Missing SSL Certificate Validation | H3C NX15 <= V100R012 | 
 CVE-2024-36756 | Missing SSL Certificate Validation | Ruijie X32 PRO <= B11P226 |
 CVE-2024-36757 | Missing SSL Certificate Validation | Xiaomi 4A <= 2.28.503 |
